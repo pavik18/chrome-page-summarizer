@@ -1,3 +1,3 @@
 Chrome Page Summarizer
 
-This Chrome extension summarizes the current webpage using AI.
+This extension will later integrate with a Python backend for summarization.
